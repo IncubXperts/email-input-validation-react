@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/IncubXperts/email-input-validation-react">
-    <img src="./logo.png" alt="Logo" width="80" height="80">
+    <img src="./public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Email Input Validation Using React</h3>

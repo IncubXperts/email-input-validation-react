@@ -125,6 +125,18 @@ const handleOnChange = (e) => {
     }
 
 ```
+* To use the same functionality in angular please follow the below steps:
+1. Create an angular app.
+2. Import Reactive Forms Module.
+3. Define a formGroup 
+3. Add the below lines to your component.ts file
+
+```
+ this.emailValidateForm = new FormGroup({
+      Email: new FormControl("", [Validators.pattern(/^([a-z0-9._+-])+([._+-]{0,})+([a-z0-9._+-]{0,})+@[a-z0-9]+([a-z]{0,})+\.[a-z0-9]{1,}$/)])
+    })
+    
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

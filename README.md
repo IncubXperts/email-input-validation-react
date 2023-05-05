@@ -78,8 +78,8 @@ Then the entered email id is tested with given regular expression, and displays 
 
 ### Built With
 
-Console app and sample code in C# class.
-* [![React Js]][https://react.dev/learn/start-a-new-react-project]
+ReactJs.
+* [[React Js]][https://react.dev/learn/start-a-new-react-project]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

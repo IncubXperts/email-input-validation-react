@@ -26,7 +26,7 @@
   <p align="center">
     This is an effort by [IncubXperts](https://incubxperts.com) to provide commonly used source code snippets as open source code to community. Feel free to use it in your projects, suggest improvements, report bugs to improve the code for community.  Feel free to contribute. 
     <br />
-    Source code example to generate a thumbnail from an image.  
+    Source code example to validate an email id.  
     <br />
     <a href="https://github.com/IncubXperts/email-input-validation-react/issues">Report Bug</a>
    �
@@ -181,16 +181,16 @@ Project Link: [https://github.com/IncubXperts/email-input-validation-react](http
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
-[contributors-url]: https://github.com/IncubXperts/image_thumbnail_csharp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
-[forks-url]: https://github.com/IncubXperts/image_thumbnail_csharp/network/members
-[stars-shield]: https://img.shields.io/github/stars/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
-[stars-url]: https://github.com/IncubXperts/image_thumbnail_csharp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
-[issues-url]: https://github.com/IncubXperts/image_thumbnail_csharp/issues
-[license-shield]: https://img.shields.io/github/license/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
-[license-url]: https://github.com/IncubXperts/image_thumbnail_csharp/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/IncubXperts/email-input-validation-react.svg?style=for-the-badge
+[contributors-url]: https://github.com/IncubXperts/email-input-validation-react/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/IncubXperts/email-input-validation-react.svg?style=for-the-badge
+[forks-url]: https://github.com/IncubXperts/email-input-validation-react/network/members
+[stars-shield]: https://img.shields.io/github/stars/IncubXperts/email-input-validation-react.svg?style=for-the-badge
+[stars-url]: https://github.com/IncubXperts/email-input-validation-react/stargazers
+[issues-shield]: https://img.shields.io/github/issues/IncubXperts/email-input-validation-react.svg?style=for-the-badge
+[issues-url]: https://github.com/IncubXperts/email-input-validation-react/issues
+[license-shield]: https://img.shields.io/github/license/IncubXperts/email-input-validation-react.svg?style=for-the-badge
+[license-url]: https://github.com/IncubXperts/email-input-validation-react/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/incubxperts
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
